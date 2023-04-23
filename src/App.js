@@ -74,11 +74,11 @@ function App() {
 
 
 
-<Card sx={{ minWidth: 275 }}>
+<Card className="Card"  style={{maxWidth:"450px"}}>
       <div id="quote-box">
       <CardContent>
       <Typography variant="body2">
-     " {quoteInfo.text}"
+     " {quoteInfo.text} "
         </Typography> 
         <br></br>
        {quoteInfo.author}
