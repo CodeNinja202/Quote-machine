@@ -28,6 +28,7 @@ function App() {
     "#00B3E6",
     "#E6B333",
     "#3366E6",
+    "#1D4350"
   ];
 
 // sets a random color
